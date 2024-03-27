@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/rodrigues-filmes/static/css/main.b71fc050.css",
-    "main.js": "/rodrigues-filmes/static/js/main.bf6836da.js",
+    "main.js": "/rodrigues-filmes/static/js/main.e240a682.js",
     "index.html": "/rodrigues-filmes/index.html",
     "main.b71fc050.css.map": "/rodrigues-filmes/static/css/main.b71fc050.css.map",
-    "main.bf6836da.js.map": "/rodrigues-filmes/static/js/main.bf6836da.js.map"
+    "main.e240a682.js.map": "/rodrigues-filmes/static/js/main.e240a682.js.map"
   },
   "entrypoints": [
     "static/css/main.b71fc050.css",
-    "static/js/main.bf6836da.js"
+    "static/js/main.e240a682.js"
   ]
 }
