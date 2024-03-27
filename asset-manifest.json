@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/rodrigues-filmes/static/css/main.b71fc050.css",
+    "main.js": "/rodrigues-filmes/static/js/main.bf6836da.js",
+    "index.html": "/rodrigues-filmes/index.html",
+    "main.b71fc050.css.map": "/rodrigues-filmes/static/css/main.b71fc050.css.map",
+    "main.bf6836da.js.map": "/rodrigues-filmes/static/js/main.bf6836da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b71fc050.css",
+    "static/js/main.bf6836da.js"
+  ]
+}
